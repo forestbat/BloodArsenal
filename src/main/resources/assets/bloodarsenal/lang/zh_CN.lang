@@ -1,118 +1,232 @@
 # Creative Tab
-itemGroup.BloodArsenal.creativeTab=§4血液兵工厂
+itemGroup.bloodarsenal.creativeTab=§4血魔兵工厂
 
 # Items
-item.BloodArsenal.glassShard.name=玻璃碎片
-item.BloodArsenal.bloodInfusedStick.name=注血木棍
-item.BloodArsenal.bloodBurnedString.name=血灼之线
-item.BloodArsenal.bloodInfusedGlowstoneDust.name=注血萤石粉
-item.BloodArsenal.inertBloodInfusedIronIngot.name=惰性注血铁锭
-item.BloodArsenal.bloodInfusedIronIngot.name=注血铁锭
-item.BloodArsenal.bloodOrange.name=血橙
+item.bloodarsenal.glassShard.name=玻璃碎片
+item.bloodarsenal.bloodInfusedStick.name=注血木棍
+item.bloodarsenal.bloodBurnedString.name=燃烧血线
+item.bloodarsenal.bloodInfusedGlowstoneDust.name=注血萤石
+item.bloodarsenal.inertBloodInfusedIronIngot.name=惰性注血铁锭
+item.bloodarsenal.bloodInfusedIronIngot.name=注血铁锭
+item.bloodarsenal.bloodOrange.name=血柑橘
+item.bloodarsenal.boundStick.name=束缚木棍
+item.bloodarsenal.bloodDiamond.normal.name=血钻
+item.bloodarsenal.bloodDiamond.inert.name=惰性注血钻
+item.bloodarsenal.bloodDiamond.infused.name=注血钻
+item.bloodarsenal.bloodDiamond.bound.name=束缚注血钻
 
-item.BloodArsenal.bloodInfusedWooden.pickaxe.name=注血木镐
-item.BloodArsenal.bloodInfusedWooden.axe.name=注血木斧
-item.BloodArsenal.bloodInfusedWooden.shovel.name=注血木锹
-item.BloodArsenal.bloodInfusedWooden.sword.name=注血木剑
-item.BloodArsenal.bloodInfusedIron.pickaxe.name=注血铁镐
-item.BloodArsenal.bloodInfusedIron.axe.name=注血铁斧
-item.BloodArsenal.bloodInfusedIron.shovel.name=注血铁锹
-item.BloodArsenal.bloodInfusedIron.sword.name=注血铁剑
-item.BloodArsenal.bloodInfusedShield.name=注血盾牌
+item.bloodarsenal.bloodInfusedWooden.pickaxe.name=注血木镐
+item.bloodarsenal.bloodInfusedWooden.axe.name=注血木斧
+item.bloodarsenal.bloodInfusedWooden.shovel.name=注血木铲
+item.bloodarsenal.bloodInfusedWooden.sickle.name=注血木镰刀
+item.bloodarsenal.bloodInfusedWooden.sword.name=注血木剑
+item.bloodarsenal.bloodInfusedIron.pickaxe.name=注血铁镐
+item.bloodarsenal.bloodInfusedIron.axe.name=注血铁斧
+item.bloodarsenal.bloodInfusedIron.shovel.name=注血铁铲
+item.bloodarsenal.bloodInfusedIron.sickle.name=注血铁镰刀
+item.bloodarsenal.bloodInfusedIron.sword.name=注血铁剑
+item.bloodarsenal.bloodInfusedShield.name=注血盾
 
-item.BloodArsenal.glassSacrificialDagger.name=玻璃制牺牲匕首
-item.BloodArsenal.glassDaggerOfSacrifice.name=玻璃制献祭刀
+item.bloodarsenal.glassSacrificialDagger.name=玻璃牺牲匕首
+item.bloodarsenal.glassDaggerOfSacrifice.name=玻璃献祭刀
+item.bloodarsenal.stygianDagger.name=阴暗匕首
 
-item.BloodArsenal.reagentSwimming.name=水泳试剂
-item.BloodArsenal.reagentEnder.name=末影试剂
-item.BloodArsenal.reagentLightning.name=闪电试剂
-item.BloodArsenal.reagentDivinity.name=神灵试剂
+item.bloodarsenal.reagentSwimming.name=快泳试剂
+item.bloodarsenal.reagentEnder.name=末影试剂
+item.bloodarsenal.reagentLightning.name=雷电试剂
+item.bloodarsenal.reagentDivinity.name=神灵试剂
 
-item.BloodArsenal.sigil.swimming.name=水泳印记
-item.BloodArsenal.sigil.ender.name=末影印记
-item.BloodArsenal.sigil.augmentedHolding.name=扩持印记
-item.BloodArsenal.sigil.lightning.name=闪电印记
-item.BloodArsenal.sigil.divinity.name=神灵印记
+item.bloodarsenal.sigil.swimming.name=快泳印记
+item.bloodarsenal.sigil.ender.name=末影印记
+item.bloodarsenal.sigil.augmentedHolding.name=增强集持印记
+item.bloodarsenal.sigil.lightning.name=雷电印记
+item.bloodarsenal.sigil.divinity.name=神盾印记
+item.bloodarsenal.sigil.sentience.name=感知印记
 
-item.BloodArsenal.gemSacrifice.name=献祭宝石
-item.BloodArsenal.gemSelfSacrifice.name=牺牲宝石
-item.BloodArsenal.gemTartaric.name=塔尔塔意志宝石
+item.bloodarsenal.gemSacrifice.name=Gem of Sacrifice
+item.bloodarsenal.gemSelfSacrifice.name=Gem of Self Sacrifice
+item.bloodarsenal.gemTartaric.name=Gem of Tartaric Will
 
-item.BloodArsenal.sacrificeAmulet.name=献祭项链
-item.BloodArsenal.selfSacrificeAmulet.name=牺牲项链
-item.BloodArsenal.soulPendant.petty.name=[微小]灵魂垂饰
-item.BloodArsenal.soulPendant.lesser.name=[细块]灵魂垂饰
-item.BloodArsenal.soulPendant.common.name=[普通]灵魂垂饰
-item.BloodArsenal.soulPendant.greater.name=[较大]灵魂垂饰
-item.BloodArsenal.soulPendant.grand.name=[精致]灵魂垂饰
+item.bloodarsenal.bound.sickle.name=Bound Sickle
+
+item.bloodarsenal.stasisPlate.name=Stasis Plate
+item.bloodarsenal.stasis.pickaxe.name=Stasis Pickaxe
+item.bloodarsenal.stasis.axe.name=Stasis Axe
+item.bloodarsenal.stasis.shovel.name=Stasis Shovel
+item.bloodarsenal.stasis.sword.name=Stasis Blade
+item.bloodarsenal.profilable.name=%s : Profile %d
+item.bloodarsenal.profilable.alt=Profile %d
+
+item.bloodarsenal.modifierTome.name=Modifier Tome
+
+item.bloodarsenal.sacrificeAmulet.name=Amulet of Sacrifice
+item.bloodarsenal.selfSacrificeAmulet.name=Amulet of Self Sacrifice
+item.bloodarsenal.soulPendant.petty.name=Petty Soul Pendant
+item.bloodarsenal.soulPendant.lesser.name=Lesser Soul Pendant
+item.bloodarsenal.soulPendant.common.name=Common Soul Pendant
+item.bloodarsenal.soulPendant.greater.name=Greater Soul Pendant
+item.bloodarsenal.soulPendant.grand.name=Grand Soul Pendant
+item.bloodarsenal.ringOfVampirism.name=Ring of Vampirism
 
 # Blocks
-tile.BloodArsenal.slate.blank.name=空白石板
-tile.BloodArsenal.slate.reinforced.name=强化石板
-tile.BloodArsenal.slate.imbued.name=灌输石板
-tile.BloodArsenal.slate.demonic.name=恶魔石板
-tile.BloodArsenal.slate.ethereal.name=悬幽石板
-tile.BloodArsenal.bloodInfusedWoodenLog.name=注血原木
-tile.BloodArsenal.bloodInfusedWoodenPlanks.name=注血木板
-tile.BloodArsenal.bloodInfusedWoodenStairs.name=注血木楼梯
-tile.BloodArsenal.bloodInfusedWoodenDoubleSlab.name=注血木台阶
-tile.BloodArsenal.bloodInfusedWoodenHalfSlab.name=注血木台阶
-tile.BloodArsenal.bloodInfusedWoodenFence.name=注血木栅栏
-tile.BloodArsenal.bloodInfusedWoodenFenceGate.name=注血木栅栏门
-tile.BloodArsenal.bloodStainedGlass.name=染血玻璃
-tile.BloodArsenal.bloodStainedGlassPane.name=染血玻璃板
-tile.BloodArsenal.bloodTorch.name=血之火把
-tile.BloodArsenal.bloodInfusedIronBlock.name=注血铁块
-tile.BloodArsenal.bloodInfusedGlowstone.name=注血萤石
-tile.BloodArsenal.glassShardBlock.name=玻璃碎堆
-tile.BloodArsenal.bloodBurnedString.name=血灼之线
-tile.BloodArsenal.altareAenigmatica.name=暗秘祭坛
+tile.bloodarsenal.slate.blank.name=Blank Slate Block
+tile.bloodarsenal.slate.reinforced.name=Reinforced Slate Block
+tile.bloodarsenal.slate.imbued.name=Imbued Slate Block
+tile.bloodarsenal.slate.demonic.name=Demonic Slate Block
+tile.bloodarsenal.slate.ethereal.name=Ethereal Slate Block
+tile.bloodarsenal.bloodInfusedWoodenLog.name=Blood Infused Wooden Log
+tile.bloodarsenal.bloodInfusedWoodenPlanks.name=Blood Infused Wooden Planks
+tile.bloodarsenal.bloodInfusedWoodenStairs.name=Blood Infused Wooden Stairs
+tile.bloodarsenal.bloodInfusedWoodenDoubleSlab.name=Blood Infused Wooden Slab
+tile.bloodarsenal.bloodInfusedWoodenHalfSlab.name=Blood Infused Wooden Slab
+tile.bloodarsenal.bloodInfusedWoodenFence.name=Blood Infused Wooden Fence
+tile.bloodarsenal.bloodInfusedWoodenFenceGate.name=Blood Infused Wooden Fence Gate
+tile.bloodarsenal.bloodStainedGlass.name=Blood Stained Glass
+tile.bloodarsenal.bloodStainedGlassPane.name=Blood Stained Glass Pane
+tile.bloodarsenal.bloodTorch.name=Blood Torch
+tile.bloodarsenal.bloodInfusedIronBlock.name=Blood Infused Iron Block
+tile.bloodarsenal.bloodInfusedGlowstone.name=Blood Infused Glowstone
+tile.bloodarsenal.glassShardBlock.name=Glass Shards
+tile.bloodarsenal.bloodBurnedString.name=Blood Burned String
+tile.bloodarsenal.altareAenigmatica.name=Altare Aenigmatica
+tile.bloodarsenal.stasisPlate.name=Stasis Plate
+
+# Entities
+entity.bloodarsenal.SummonedTool.name=Summoned Tool
 
 # Tooltips
-tooltip.BloodArsenal.glassShard.desc=尖锐的透明物
-tooltip.BloodArsenal.bloodInfusedStick.desc=一根注入生命的木棍!
-tooltip.BloodArsenal.bloodOrange.desc=伴生命而成熟!
-tooltip.BloodArsenal.bloodInfusedGlowstoneDust.desc=用魔法注入精灵尘
-tooltip.BloodArsenal.inertBloodInfusedIronIngot.desc=不怎么活泼...
-tooltip.BloodArsenal.bloodInfusedIronIngot.desc=伴生命而发光
-tooltip.BloodArsenal.glassSacrificialDagger.desc=锋利的刀刃
-tooltip.BloodArsenal.glassDaggerOfSacrifice.desc=流血的刀刃
+tooltip.bloodarsenal.glassShard.desc=Piercingly transparent
+tooltip.bloodarsenal.glassShard.info=Obtained by breaking Glass while holding Flint
+tooltip.bloodarsenal.bloodInfusedStick.desc=A stick imbued with life!
+tooltip.bloodarsenal.bloodOrange.desc=Ripe with juice!
+tooltip.bloodarsenal.bloodInfusedGlowstoneDust.desc=Magically imbued pixie dust
+tooltip.bloodarsenal.inertBloodInfusedIronIngot.desc=Not so lively...
+tooltip.bloodarsenal.bloodInfusedIronIngot.desc=Glowing with life
+tooltip.bloodarsenal.glassSacrificialDagger.desc=Cutting edge
+tooltip.bloodarsenal.glassDaggerOfSacrifice.desc=Bleeding edge
+tooltip.bloodarsenal.boundStick.desc=False Swipe!
+tooltip.bloodarsenal.bloodDiamond.normal.desc=Glimmering red
+tooltip.bloodarsenal.bloodDiamond.inert.desc=Hollow with potential...
+tooltip.bloodarsenal.bloodDiamond.infused.desc=Pulsating with life
+tooltip.bloodarsenal.bloodDiamond.bound.desc=Bound with life!
+tooltip.bloodarsenal.stygianDagger.desc=Bleeding from the Styx
 
-tooltip.BloodArsenal.sigil.swimming.desc=就这么游下去!
-tooltip.BloodArsenal.sigil.ender.desc=通往末界的小口袋
-tooltip.BloodArsenal.sigil.lightning.desc=&b闪电的转变
-tooltip.BloodArsenal.sigil.divinity.desc=&6&n终极神灵
+tooltip.bloodarsenal.reagentLightning.info0=Place the following into water:
+tooltip.bloodarsenal.reagentLightning.info1= -Binding Reagent
+tooltip.bloodarsenal.reagentLightning.info2= -Glowstone Block
+tooltip.bloodarsenal.reagentLightning.info3= -Redstone Block
+tooltip.bloodarsenal.reagentLightning.info4= -Gunpowder
+tooltip.bloodarsenal.reagentLightning.info5= -Iron Block
+tooltip.bloodarsenal.reagentLightning.info6= -Gold Block
+tooltip.bloodarsenal.reagentLightning.info7=and hit them with lightning!
 
-tooltip.BloodArsenal.sacrificeAmulet.desc=不想要, 不想浪费!
-tooltip.BloodArsenal.selfSacrificeAmulet.desc=聚集担保品
+tooltip.bloodarsenal.sigil.swimming.desc=Just keep swimming!
+tooltip.bloodarsenal.sigil.ender.desc=Mini-portal through The End
+tooltip.bloodarsenal.sigil.lightning.desc=&bLightning transformed
+tooltip.bloodarsenal.sigil.divinity.desc=&6&nUltimate Divinity
+tooltip.bloodarsenal.sigil.sentience.desc=Sentient tools!
 
-tooltip.BloodArsenal.soulPendant.petty=用于存储微量意志的垂饰
-tooltip.BloodArsenal.soulPendant.lesser=用于存储少量意志的垂饰
-tooltip.BloodArsenal.soulPendant.common=用于存储更多意志的垂饰
-tooltip.BloodArsenal.soulPendant.greater=用于存储更大量意志的垂饰
-tooltip.BloodArsenal.soulPendant.grand=用于存储巨大意志的垂饰
+tooltip.bloodarsenal.sacrificeAmulet.desc=Want not, waste not!
+tooltip.bloodarsenal.selfSacrificeAmulet.desc=Collecting collateral
 
-tooltip.BloodArsenal.stored=存储: &c%d &7LP
-tooltip.BloodArsenal.level=等级: %d
+tooltip.bloodarsenal.soulPendant.petty=A pendant used to contain a little will
+tooltip.bloodarsenal.soulPendant.lesser=A pendant used to contain some will
+tooltip.bloodarsenal.soulPendant.common=A pendant used to contain more will
+tooltip.bloodarsenal.soulPendant.greater=A pendant used to contain a greater amount of will
+tooltip.bloodarsenal.soulPendant.grand=A pendant used to contain a large amount of will
+tooltip.bloodarsenal.ringOfVampirism.desc=Feeding off of blood!
+
+tooltip.bloodarsenal.bound.sickle.desc=Ready for reaping
+
+tooltip.bloodarsenal.stored=Stored: &c%d &7LP
+tooltip.bloodarsenal.level=Level: %d
+tooltip.bloodarsenal.stasis=Stasis: %b
+
+tooltip.bloodarsenal.modifierType.head=Head:
+tooltip.bloodarsenal.modifierType.core=Core:
+tooltip.bloodarsenal.modifierType.handle=Handle:
+tooltip.bloodarsenal.modifierType.ability=Ability:
+
+tooltip.bloodarsenal.modifier.flame=Ember's Touch
+tooltip.bloodarsenal.modifier.badPotion=Potion
+tooltip.bloodarsenal.modifier.sharpness=Razor Edge
+tooltip.bloodarsenal.modifier.bloodlust=Bloodlust
+tooltip.bloodarsenal.modifier.silky=Silky Smooth
+tooltip.bloodarsenal.modifier.smelting=Shmelty Smelt
+tooltip.bloodarsenal.modifier.fortunate=Luck's Charm
+tooltip.bloodarsenal.modifier.looting=Loot Farmer
+tooltip.bloodarsenal.modifier.xperienced=XPerienced
+tooltip.bloodarsenal.modifier.quickDraw=Quick Draw
+tooltip.bloodarsenal.modifier.shadowTool=Shadow Tool
+tooltip.bloodarsenal.modifier.beneficialPotion=Potion
+tooltip.bloodarsenal.modifier.aod=Aura of Destruction
+tooltip.bloodarsenal.modifier.sigil=Sigil
+
+tooltip.bloodarsenal.modifier.level=%s (Level %d%s)
+
+tooltip.bloodarsenal.holdShift=Hold -&1SHIFT&7- for more information
+
+# Ritual
+ritual.bloodarsenal.infusionRitual=Infusion de Sanguine
+
+ritual.bloodarsenal.imperfect.lightning=Imperfect Lightning Ritual
+ritual.bloodarsenal.imperfect.enchant_reset=Imperfect Enchantment Reset Ritual
+ritual.bloodarsenal.imperfect.ice=Imperfect Ice Ritual
+ritual.bloodarsenal.imperfect.snow=Imperfect Snow Ritual
 
 # Chat
-chat.BloodArsenal.damageSourceGlass=%s 刺伤过多
-chat.BloodArsenal.damageSourceBleeding=%s 耗尽了生命
-chat.BloodArsenal.setLevel=设置等级至: %d
-chat.BloodArsenal.tooWeak=你感到有点过于弱小无法完成...
-chat.BloodArsenal.setOwner=绑定拥有者为: %s
-chat.BloodArsenal.alreadyOwner=你已经为这个绑定过了!
+chat.bloodarsenal.damageSourceGlass=%s was pricked too much
+chat.bloodarsenal.damageSourceBleeding=%s ran out of life
+chat.bloodarsenal.setLevel=Set Level to: %d
+chat.bloodarsenal.tooWeak=You feel a bit too weak to do that...
+chat.bloodarsenal.setOwner=Set bound owner to: %s
+chat.bloodarsenal.alreadyOwner=You are already bound to this!
+
+chat.bloodarsenal.modifierAdded=&4%s (Level %d) added to %s!&f
+chat.bloodarsenal.modifierReady=&4%s (Level %d) is ready to be upgraded!&f
+
+# Commands
+commands.error.arg.invalid=Invalid arguments
+commands.error.arg.missing=Not enough arguments
+commands.error.arg.player.missing=You must specify which player you wish to perform this action on.
+commands.error.404=Command not found!
+commands.error.unknown=Unknown command!
+commands.error.perm=You do not have permission to use this command.
+commands.success=Executed successfully
+
+commands.format.help=%s - %s
+commands.format.error=%s - %s
+
+commands.help.usage=/bloodarsenal help
+commands.help.help=Displays the help information for the "/bloodarsenal" command.
+
+commands.stasis.usage=/bloodarsenal stasis [add|remove] [modifierName] [modifierLevel]
+commands.stasis.help=Modifies the currently held stasis tool
+commands.stasis.add.help=Adds the given modifier and level onto the tool
+commands.stasis.add.success=Successfully added %s (Level %d) to the tool!
+commands.stasis.add.fail=Could not add %s (Level %d) to the tool!
+commands.stasis.remove.help=Removes the given modifier and level from the tool
+commands.stasis.remove.success=Successfully removed %s from the tool!
+commands.stasis.remove.fail=Could not remove %s from the tool!
+
+# JEI
+jei.bloodarsenal.recipe.requiredLP=LP: %d
+jei.bloodarsenal.recipe.sanguineInfusion=Infusion de Sanguine
+jei.bloodarsenal.recipe.modifierLevel=Modifier Level: %d
+
+jei.bloodarsenal.desc.glassShard=A crafting item obtained by breaking Glass while holding Flint.
+jei.bloodarsenal.desc.reagentLightning=A crafting item obtained through a tedious process.\n\nFirst, place a Water source block in the world, then drop a Binding Reagent, a Glowstone Block, a Block of Gold, a Block of Redstone, a Block of Iron, and Gunpowder into the Water.\n\nThen, hit the Water block with all the items in it with lightning.
 
 # Tinker's
-modifier.serrated.name=锯齿
-modifier.serrated.desc=§o切砍!§r\n使目标流血!
-modifier.serrated.extra=严重程度: %s
+modifier.serrated.name=Serrated
+modifier.serrated.desc=§oCuts!§r\nMakes the target bleeed!
+modifier.serrated.extra=Severity: %s
 
-modifier.living.name=重生
-modifier.living.desc=§4重生!§r\n通过使用者的灵魂网络治愈它自身
+modifier.living.name=Living
+modifier.living.desc=§4Regenerative!§r\nHeals itself via the user's Soul Network
 
-material.bloodinfusedwood.name=注血木
-material.bloodinfusedwood.prefix=注血木制 %s
-material.bloodinfusediron.name=注血铁
+material.bloodinfusedwood.name=Blood Infused Wood
+material.bloodinfusedwood.prefix=Blood Infused Wooden %s
+material.bloodinfusediron.name=Blood Infused Iron
 
-fluid.BloodArsenal.moltenBloodInfusedIron.name=熔融注血铁
+fluid.tconstruct.molten_blood_infused_iron.name=Molten Blood Infused Iron
